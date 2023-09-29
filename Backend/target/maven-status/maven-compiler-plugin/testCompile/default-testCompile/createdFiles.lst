@@ -1,0 +1,8 @@
+com/technologyinnovation/serviceTest/UserServiceTest.class
+UserControllerTest.class
+com/technologyinnovation/model/UserTest.class
+EventControllerTest.class
+com/technologyinnovation/model/UserRoleTest.class
+com/technologyinnovation/repository/EventRepositoryTest.class
+com/technologyinnovation/model/EventTest.class
+EventServiceTest.class

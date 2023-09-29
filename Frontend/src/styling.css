@@ -1,0 +1,11 @@
+/* Login/Register form transition */
+.login-form,
+.register-form {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.login-form-exit-active,
+.register-form-enter-active {
+  opacity: 0;
+}

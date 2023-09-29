@@ -1,0 +1,9 @@
+.nav-buttons:hover{
+    background-color: white !important;
+    color: #1b76d2;
+    
+}
+
+.logout:hover{
+    color: rgb(203, 25, 25);
+}

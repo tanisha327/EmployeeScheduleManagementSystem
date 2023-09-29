@@ -1,0 +1,12 @@
+com/technologyinnovation/controller/EventController.class
+com/technologyinnovation/model/Event.class
+com/technologyinnovation/service/implementation/EventServiceImplementation.class
+com/technologyinnovation/controller/UserController.class
+com/technologyinnovation/model/UserRole.class
+com/technologyinnovation/repository/UserRepository.class
+com/technologyinnovation/model/User.class
+com/technologyinnovation/repository/EventRepository.class
+com/technologyinnovation/service/implementation/UserServiceImplementation.class
+com/technologyinnovation/service/EventService.class
+com/technologyinnovation/Main.class
+com/technologyinnovation/service/UserService.class
